@@ -17,4 +17,6 @@ Changes not staged for commit:
 
  git commit -m "commited NothingInItAGAIN_DELETE "
 
- lets push the file to git  hub using git push
+ lets push the file to git  hub using
+
+  git push
