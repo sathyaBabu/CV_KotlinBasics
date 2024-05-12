@@ -1,0 +1,13 @@
+
+
+
+//    // Create fixed sized array for stack as follows and create an inheritance
+ to fix the stack over flow bug
+//    val point = IntArray(2)
+//    point.set(0,990)
+//    point.set(1,10)
+//    point.set(2,20)
+//    point.set(3,30)
+//
+//    println(point.get(3))  // error Index 2 out of bounds for length 2
+//
