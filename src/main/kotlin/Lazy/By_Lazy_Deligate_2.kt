@@ -14,9 +14,9 @@ class HeavyContainer101 {
 // phase II
 class HelpertoHeavy101 {
 
-   // var heavy = HeavyContainer101() // lets get initiated by a helper class
+    var heavy = HeavyContainer101() // lets get initiated by a helper class
 
-  val heavy by lazy { HeavyContainer1() }  // acts as proxy..
+ // val heavy by lazy { HeavyContainer1() }  // acts as proxy..
     // construct the object HeavyContainer1() while using it
     // blocking the memory...
 
